@@ -1,0 +1,42 @@
+.container {
+    margin: 30px 8px;
+    background-color: #eeeeee;
+    font-family: sans-serif;
+}
+#title {
+    padding: 68px 0 0 0;
+    text-align: center;
+    font-size: 40px;
+}
+p, h3{
+    text-align: center;
+}
+.img {
+   text-align: center;
+   background-color: #fff;
+   margin: 0 15px;
+}
+.img p {
+    padding-bottom: 20px;
+}
+.content {
+    padding: 0 350px;
+}
+h3 {
+    padding: 20px;
+}
+.content ul li {
+    padding-top: 20px;
+}
+.content p {
+    text-align: left;
+}
+.content .footer {
+    padding: 30px;
+    font-style: italic;
+}
+#linked {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
